@@ -1,0 +1,35 @@
+_repo: Adventures-on-the-Roof-of-the-World_43314
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43314-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Le Blond, Aubrey, Mrs.
+    aliases:
+    - Aubrey le Blond, Mrs.
+    - Main, Mrs. (Elizabeth)
+    - Le Blond, Elizabeth Alice Frances Hawkins-Whitshed
+    - Blond, Aubrey le, Mrs.
+    - Blond, Mrs. Aubrey le
+    - Burnaby, Fred, Mrs.
+    deathdate: 1934
+    gutenberg_agent_id: '41857'
+    url: http://www.gutenberg.org/2009/agents/41857
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Hawkins-Whitshed
+description: ''
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43314'
+  lccn: 05002569
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alps -- Description and travel'
+- !lcc 'DQ'
+- !lcsh 'Mountaineering'
+title: Adventures on the Roof of the World
+url: http://www.gutenberg.org/ebooks/43314
