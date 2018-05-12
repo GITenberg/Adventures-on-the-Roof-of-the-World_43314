@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41857
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Hawkins-Whitshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43314#Adventures-on-the-Roof-of-the-World
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
 identifiers:
